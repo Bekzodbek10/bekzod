@@ -1,2 +1,1 @@
-GAP YOQ
-gap kop
+NIMA GAAAAAAAP
