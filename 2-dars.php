@@ -1,5 +1,7 @@
 <?php
 
+echo "Salom";
+
 class muhiddin{
-    echo "Muhiddin"
+    echo "Muhiddin";
 }
