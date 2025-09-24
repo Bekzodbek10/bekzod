@@ -1,0 +1,2 @@
+$ism = "sherzod";
+print $ism;
